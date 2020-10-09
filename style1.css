@@ -1,0 +1,149 @@
+body{
+
+  text-align: center;
+  margin: 0;
+}
+
+p {
+  font-family: sans-serif;
+  color: #40514E;
+}
+h2{
+  font-family: sans-serif;
+  color: #11999E;
+}
+h3{
+  font-family: sans-serif;
+}
+
+.bg{
+  background-color: #EAF6F6;
+  height: 700px;
+  margin: 0;
+}
+.overskrift{
+  color: #66BFBF;
+  text-align: center;
+  font-family: Sacramento, cursive;
+  position: relative;
+  top: 100px;
+  font-size: 60px;
+}
+
+.undertext{
+  color: #66BFBF;
+  text-align: center;
+  font-family:sans-serif;
+  position: relative;
+  top:80px;
+  font-size:35px;
+}
+
+.bjerg{
+  position: relative;
+  left: 170px;
+  top:250px;
+}
+
+.sky1{
+  position: relative;
+  bottom: 170px;
+  left:90px;
+
+}
+
+.sky2{
+  position: relative;
+  bottom: 100px;
+  right: 600px;
+
+}
+
+.sky3{
+  position: relative;
+  bottom: 50px;
+  font-size: 20px;
+}
+.skill-row{
+  width: 50%;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.profilpic{
+  margin: 50px;
+  width: 20%;
+  border-radius: 70%;
+
+
+}
+.chillies{
+  width: 25%;
+  float: left;
+  margin-right: 25px;
+  border-radius: 50%;
+
+}
+
+.computer{
+  width: 29%;
+  float: right;
+  border-radius: 50%;
+  margin-left: 25px;
+}
+
+.os1{
+  font-family:sans-serif;
+  color: #11999E;
+  position: relative;
+  right: 0px;
+}
+.os2{
+  font-family:sans-serif;
+  color: #11999E;
+  position:relative;
+  right:0px;
+}
+
+.prikker{
+  font-size: 70px;
+  margin: 50px;
+  color: #F5DEB3;
+}
+.p1{
+  color: black;
+  font-size: 20px;
+}
+.er{
+  color:#11999E;
+}
+
+.bottom-container{
+  background-color:#66BFBF;
+  padding: 50px;
+  margin-top: 20px;
+}
+
+.btn{
+  background-color: #66BFBF;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+.footer-link{
+  color: #11999E
+  margin-top: 20px;
+  font-family: sans-serif;
+  float: 20px inherit;
+  padding-right: 20px;
+}
+.text1{
+   color:white;
+}
